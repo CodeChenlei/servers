@@ -1,6 +1,5 @@
 package com.zoomulus.servers.http.responder;
 
-public class StaticHttpResponder
-{
+public class StaticHttpResponder {
 
 }
